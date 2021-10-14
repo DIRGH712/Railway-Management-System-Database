@@ -15,4 +15,4 @@ Through this system, we try to achieve the below objectives:
 
 </br>
 
-* [Read the documentation for the project here.](https://github.com/DIRGH712/Railway-Management-System-Database/blob/main/Railway%20Reservation%20System%20.pdf)
+* [Read the documentation for the project here.](https://github.com/DIRGH712/Railway-Management-System-Database/blob/main/Railway%20Reservation%20System.pdf)
